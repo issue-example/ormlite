@@ -1,0 +1,29 @@
+# temp files
+*~
+*.swp
+*.iml
+*.ipr
+*.iws
+
+# IntelliJ Idea files
+atlassian-ide-plugin.xml
+.idea/
+out/
+
+# Eclipse files
+.project
+.settings
+.classpath
+
+
+# Maven files
+target/
+gen/
+
+# Gradle files
+.gradle
+temp/
+build/
+
+/local.properties
+
